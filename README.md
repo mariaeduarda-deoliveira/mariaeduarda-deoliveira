@@ -5,6 +5,6 @@ Sou uma estudante de programação com foco em front-end, mas planejo me tornar 
 
 <div align="center">
   <a href="https://github.com/mariaeduarda-deoliveira">
-  <img width="100px" height="100em" src="https://github-readme-stats.vercel.app/api?username=mariaeduarda-deoliveira&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img width="100px" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduarda-deoliveira&layout=compact&langs_count=16&theme=calm"/>
+  <img width="400px" height="100em" src="https://github-readme-stats.vercel.app/api?username=mariaeduarda-deoliveira&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img width="400px" height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeduarda-deoliveira&layout=compact&langs_count=16&theme=calm"/>
 </div>
