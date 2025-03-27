@@ -1,10 +1,8 @@
 
 # Prazer em te conhecer! 🌠
 ## 🩷 Sobre mim
-Eu sou estudante com foco em Front-end, mas também gosto da área de desenvolvimento de jogos. Fora do computador, gosto de jogos, chás, dias chuvosos e dançar.
-## 🩷 Habilidades
+Atualmente, retornando aos estudos. :)
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,react,git,styledcomponents,figma,python&theme=light)](https://skillicons.dev)
 
 <img
 height="150"
